@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tanishka Pangavhane  
 
-🚀 Java Backend Developer | AI-Powered Application Developer  
+🚀 Full Stack Developer | AI-Powered Application Developer  
 🎓 Computer Science Engineering Student  
 
 ---
