@@ -54,7 +54,7 @@ I enjoy integrating **AI models into scalable backend systems** and continuously
 🔹 **Spring Boot REST API**  
 - Scalable backend API using Spring Boot & MySQL  
 
-👉 More projects coming soon......
+👉 More projects coming soon...
 
 ---
 
